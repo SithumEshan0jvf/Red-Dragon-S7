@@ -61,7 +61,7 @@ global.premium = ['94767973826'] //ur premium numbers
 //other
 global.sessionName = 'session'
 global.antitags = false
-global.prefa = [. '.alive '✅',' //Command Prefix eg:(.alive )
+global.prefa = [. '.alive' //Command Prefix eg:(.alive )
 global.sp = '💠'
 global.mess = {
     success: 'Done ✅',
